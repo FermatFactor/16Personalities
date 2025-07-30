@@ -1,0 +1,5 @@
+Arnav Shrivastava,shrivastavarnav2408@gmail.com,18,MBTI_Detailed_Arnav Shrivastava.txt
+cd "c:\Users\shriv\OneDrive\Desktop\16personalities\" && g++ personalitytest.cpp -o personalitytest && "c:\Users\shriv\OneDrive\Desktop\16personalities\"personalitytest,shrivastava@gmail.com,18,MBTI_Detailed_cd "c:\Users\shriv\OneDrive\Desktop\16personalities\" && g++ personalitytest.cpp -o personalitytest && "c:\Users\shriv\OneDrive\Desktop\16personalities\"personalitytest.txt
+Arnav,shriv2408@gmail.com,19,MBTI_Detailed_Arnav.txt
+Shraddha,shraddha@gmail.com,30,MBTI_Detailed_Shraddha.txt
+cd "c:\Users\shriv\OneDrive\Desktop\16personalities\" && g++ personalitytest.cpp -o personalitytest && "c:\Users\shriv\OneDrive\Desktop\16personalities\"personalitytest,mkb@mahila.com,16,MBTI_Detailed_cd "c:\Users\shriv\OneDrive\Desktop\16personalities\" && g++ personalitytest.cpp -o personalitytest && "c:\Users\shriv\OneDrive\Desktop\16personalities\"personalitytest.txt
